@@ -1,0 +1,53 @@
+/******************************************* Layout ****************************/
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.block {
+    display: block;
+}
+
+.searchbox {
+    background-color: #EEEEEE;
+    width: 90%;
+    height: 78.2px;
+    margin: 0 auto; 
+}
+
+.boxes {
+    width: 90%;
+    margin: 2px auto;
+}
+
+.box1 {
+    width: 503.2px;
+    height: 74.8px;
+    background-color: #7EE5DA;
+    float: left;
+}
+
+.box2 {
+    width: 300.367px;
+    height: 74.8px;
+    background-color: #70CCC2;
+    float: left;
+    font-size: 13px;
+    margin: 0 2px 0 3px;
+}
+
+.box3 {
+    width: 554.433px;
+    height: 74.8px;
+    background-color: #62B3AA;
+    float: left;
+    font-size: 13px;
+}
+
+.copyright {
+    width: 90%;
+    height: 74.8px;
+    font-size: 13px;
+    margin: 7px auto;
+}
